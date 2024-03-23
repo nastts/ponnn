@@ -1,0 +1,14 @@
+body {
+    font-family: Arial,  sans-serif; 
+    font-size: 11px; 
+    background-color: white; 
+    color: #FD98FB; 
+}
+h1 {
+    border-radius: 40px;
+    background-color: #5988FF;
+    width: 500px;
+    color: #D6FF6B; 
+    font-size: 24px; 
+    font-family: Georgia, serif; 
+}
